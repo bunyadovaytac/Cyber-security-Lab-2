@@ -1,12 +1,12 @@
 # Cyber-security-Lab-2
 
-Bu repository-da Recon-ng aləti ilə kiber təhlükəsizlik laboratoriyası tapşırığını icra etdim. Aşağıda addımların ekran görüntüləri verilmişdir.
+In this repository, I have completed a cybersecurity lab assignment using the Recon-ng tool. Below are the screenshots of the steps I followed.
 
-## Addım 1: Modulun Quraşdırılması və Yüklənməsi
+## Step 1: Installing and Loading the Module
 ![Screenshot-1](Screenshot-1.png)
 
-## Addım 2: İstifadəçi Adı Əlavə Edilməsi
+## Step 2: Adding the Username
 ![Screenshot-2](Screenshot-2.png)
 
-## Addım 3: Modulu İşə Salma və Nəticələr
+## Step 3: Running the Module and Viewing Results
 ![Screenshot-3](Screenshot-3.png)
